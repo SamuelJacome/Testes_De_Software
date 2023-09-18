@@ -1,0 +1,24 @@
+#Padrão AAA - para teste de Unidades
+
+Arrange, Act, Assert
+
+Arranjar, organizar, preparar
+
+Act, Chamada do método que você quer testar
+
+Assert, Validação se o resultado é o esperado pelo teste.
+
+
+#Padrão de Nomeclatura para Testes de Unidades
+
+ObjetoEmTeste_MetodoComportamentoEmTEste_COmportamentoEsperado
+
+-> Pedido_AdicionarPedidoItem_DeveIncrementarUnidadesSeItemJaExistente
+
+-> MetodoEmTeste_EstadoEmTeste_ComportamentoEsperado
+
+#Oque são Mock?
+
+-> Objetos Mock, objetos simulados ou simplesmente Mock. São objetos que simulam o comportamento de objetos reais de forma controlada. 
+São normalmente criados para testar o comportamento de outros objetos. Em outras palavras, os objetos mock são objetos "falso" que simulam o 
+comportamento de uma classe ou objeto "real" para que possamos focar o teste na unidade a ser testada.
