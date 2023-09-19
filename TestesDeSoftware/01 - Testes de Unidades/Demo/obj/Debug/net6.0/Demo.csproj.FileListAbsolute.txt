@@ -1,12 +1,11 @@
-C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.deps.json
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.dll
-C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\ref\Demo.dll
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.pdb
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.dll
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\ref\Demo.dll
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.pdb
+c:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\refint\Demo.dll

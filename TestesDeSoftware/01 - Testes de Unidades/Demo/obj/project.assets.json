@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
+      "projectUniqueName": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
+      "projectPath": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\obj\\",
+      "outputPath": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,12 +61,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

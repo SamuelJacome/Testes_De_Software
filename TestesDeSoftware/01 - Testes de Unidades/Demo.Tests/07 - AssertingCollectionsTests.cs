@@ -11,6 +11,11 @@ namespace Demo.Tests
             // Assert
             Assert.All(funcionario.Habilidades, habilidade => Assert.False(string.IsNullOrWhiteSpace(habilidade)));
         }
+        [Fact]
+        public void DeveFalhar()
+        {
+            Assert.True(false);
+        }
 
         [Fact]
         public void Funcionario_Habilidades_JuniorDevePossuirHabilidadeBasica()
@@ -40,7 +45,7 @@ namespace Demo.Tests
             // Arrange & Act
             var funcionario = FuncionarioFactory.Criar("Eduardo", 15000);
 
-            var habilidadesBasicas = new []
+            var habilidadesBasicas = new[]
             {
                 "Lógica de Programação",
                 "OOP",

@@ -17,8 +17,45 @@ ObjetoEmTeste_MetodoComportamentoEmTEste_COmportamentoEsperado
 
 -> MetodoEmTeste_EstadoEmTeste_ComportamentoEsperado
 
-#Oque são Mock?
+# Oque são Mock?
 
 -> Objetos Mock, objetos simulados ou simplesmente Mock. São objetos que simulam o comportamento de objetos reais de forma controlada. 
 São normalmente criados para testar o comportamento de outros objetos. Em outras palavras, os objetos mock são objetos "falso" que simulam o 
 comportamento de uma classe ou objeto "real" para que possamos focar o teste na unidade a ser testada.
+
+
+Para rodar Testes no Vscode
+
+-> adicionar na pasta .vscode (caso não exista, crie na raiz do projeto) um arquivo json chamado settings.json com o seguinte conteúdo.
+A primeira linha se refere aos projetos de testes, ele vai pegar todos proj que terminam com Tests.csproj, já as demais linhas é apenas para adicionar icon aos metodos de testes.
+{
+    "dotnet-test-explorer.codeLensFailed": "❌",
+    "dotnet-test-explorer.codeLensPassed": "✔️",
+    "dotnet-test-explorer.codeLensSkipped": "⚠️",
+    "dotnet-test-explorer.testProjectPath": "**/*.Tests.csproj"
+}
+
+
+## TDD - Test Driven Development
+
+-> É uma pratica de teste de código que ainda não existe
+-> red(Escreva o teste e assista ele falhar), 
+-> Green(Escreve o mínimo de código para passar no teste), 
+-> Refact(Refatore, melhore e teste novamente);
+
+## As 3 Leis do TDD
+
+-> 1. Você não pode escrever nenhum código até ter escrito um teste que detecte uma possível falha.
+-> 2. Você não pode escrever mais testes de unidade do que o suficiente para detectar a falha - não compilar é não ter efeito.
+-> 3. Você não pode escrever mais código do que o suficiente para passar nos testes
+
+## Dicas para começar com TDD
+
+-> Pratique os baby steps e respeite as 3 leis do TDD
+-> Saiba exatamente o que precisa entregar antes de começar
+-> Não deixe para descobrir a regra de negócio durante a codificação
+-> Tenha uma lista de anotações ou uma documentação clara sempre a mão
+-> Minta! No "green" o teste só precisa passar, depois utilize Mocks
+-> Mantenha os testes simples
+-> Após a escrite de alguns testes, analise a possibilidade de reaproveitamento de objetos.
+

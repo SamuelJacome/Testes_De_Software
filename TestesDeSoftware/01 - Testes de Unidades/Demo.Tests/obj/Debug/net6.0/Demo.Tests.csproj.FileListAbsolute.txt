@@ -13,7 +13,6 @@ C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes d
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\bin\Debug\net6.0\Demo.Tests.deps.json
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\bin\Debug\net6.0\Demo.Tests.runtimeconfig.json
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\bin\Debug\net6.0\Demo.Tests.dll
-C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\bin\Debug\net6.0\ref\Demo.Tests.dll
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\bin\Debug\net6.0\Demo.Tests.pdb
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -100,3 +99,4 @@ C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes d
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\obj\Debug\net6.0\ref\Demo.Tests.dll
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\obj\Debug\net6.0\Demo.Tests.pdb
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\obj\Debug\net6.0\Demo.Tests.genruntimeconfig.cache
+c:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo.Tests\obj\Debug\net6.0\refint\Demo.Tests.dll
