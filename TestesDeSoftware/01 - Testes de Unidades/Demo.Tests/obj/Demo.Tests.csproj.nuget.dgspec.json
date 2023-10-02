@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\Demo.Tests.csproj": {}
+    "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\Demo.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\Demo.Tests.csproj": {
+    "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\Demo.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\Demo.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\Demo.Tests.csproj",
         "projectName": "Demo.Tests",
-        "projectPath": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\Demo.Tests.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\obj\\",
+        "projectPath": "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\Demo.Tests.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ssa-desenv.tjto.jus.br/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj": {
-                "projectPath": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj"
+              "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj": {
+                "projectPath": "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj"
               }
             }
           }
@@ -80,43 +76,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj": {
+    "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\obj\\",
+        "projectPath": "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
+        "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,8 +103,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ssa-desenv.tjto.jus.br/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -153,26 +131,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

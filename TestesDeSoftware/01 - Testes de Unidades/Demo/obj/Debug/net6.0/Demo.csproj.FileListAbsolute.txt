@@ -9,3 +9,15 @@ C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes d
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\ref\Demo.dll
 C:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.pdb
 c:\Users\Administrador\Desktop\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\refint\Demo.dll
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.deps.json
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.dll
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net6.0\Demo.pdb
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.dll
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\refint\Demo.dll
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\Demo.pdb
+c:\Users\samue\Desktop\Projetos\Testes_De_Software\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net6.0\ref\Demo.dll

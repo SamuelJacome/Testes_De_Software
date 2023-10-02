@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y008ged4e8ExWSiDUd7wSqcukeejo/KhQRqw5kNWkLRf65F6d7G8lm6OvdZtE8PTMQUKL6lPuqbto1nl3RykYw==",
+  "dgSpecHash": "TaknJ+FWuF1EpppfpoaCSt55GyFNVCVZFqDowUPCZtvd5mhBURMC0rcIEZ2mPxvHpXArXJcLUMUq7m3qto36Xw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Administrador\\Desktop\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\samue\\Desktop\\Projetos\\Testes_De_Software\\TestesDeSoftware\\01 - Testes de Unidades\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
